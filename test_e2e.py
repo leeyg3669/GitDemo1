@@ -12,6 +12,7 @@ from pageObject.HomePage import HomePage
 from utilities.baseclass import BaseClass
 
 print("Hello")
+print("Hello My name is")
 
 #@pytest.mark.usefixtures("setup")
 class TestOne(BaseClass):

@@ -9,6 +9,7 @@ from pageObject.HomePage import HomePage
 from utilities.baseclass import BaseClass
 
 print("Hello")
+print("Hello, my name is")
 
 class TestHomePage(BaseClass):
 

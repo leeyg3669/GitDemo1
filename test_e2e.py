@@ -11,6 +11,7 @@ from pageObject.CheckoutPage import CheckoutPage
 from pageObject.HomePage import HomePage
 from utilities.baseclass import BaseClass
 
+print("Hello")
 
 #@pytest.mark.usefixtures("setup")
 class TestOne(BaseClass):
